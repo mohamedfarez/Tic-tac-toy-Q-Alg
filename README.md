@@ -1,6 +1,6 @@
 # Tic-tac-toy-Q-Alg
 Codasoft_Tic-tac-toy-Q-Alg
-# Tic-Tac-Toe with AI and Two-Player Mode
+
 
 This is a Tic-Tac-Toe game built with Streamlit that features two exciting modes:
 1. **Play Against the Agent**: An AI agent trained using the Q-learning algorithm.
